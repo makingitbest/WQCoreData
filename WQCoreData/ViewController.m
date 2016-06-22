@@ -35,6 +35,8 @@
     
     _weibocontext = [self setUpContextWithModelName:@"Weibo"];
     
+    
+    
 //        _context = context;
    
 }
